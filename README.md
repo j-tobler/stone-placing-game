@@ -1,5 +1,5 @@
 # csse2310-assignment1
-My first c assignment for uni (badly written).
+My first c assignment for uni.
 
 ## Game Instructions
 The game is played on an R × C grid of cells (where R is the number of rows and C is the number of columns). The corners of the board are removed. Each cell has a point value. The value of the border cells is zero, interior cells have values between 1 and 9 (inclusive). Empty cells are indicated with a dot.
